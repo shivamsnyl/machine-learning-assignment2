@@ -1,2 +1,2 @@
 # machine-learning
-machine-learning-assignement
+machine-learning-assignment2
