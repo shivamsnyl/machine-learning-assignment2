@@ -57,7 +57,13 @@ https://github.com/shivamsnyl/machine-learning-assignment2.git
 
 ---
 
-## (d)Models Used
+## (d) Streamlit Application Link:
+
+https://machine-learning-assignment2-hwxwzeajjhcwiuxjpocwvu.streamlit.app/
+
+---
+
+## (e)Models Used
 
 1. Logistic Regression
 2. Decision Tree Classifier
